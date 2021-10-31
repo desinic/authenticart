@@ -2303,4 +2303,7 @@ header .elastic-slider div:hover{
   animation: BorderWidthAnimation .7s;
 }
 
+#fb-customer-chat, #fb-root{
+ z-index: 100; 
+}
 /* End Responsive */
